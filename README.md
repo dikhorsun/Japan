@@ -1,2 +1,3 @@
-# japan
-Выпускной проект по HTML и CSS
+# Website "Japan tour guide" (graduation project)
+
+https://dikhorsun.github.io/japan/index.html
